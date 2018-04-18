@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-Hello.
+Hello, my name is Eren, and this is my blog!
 
 ### Contact me
 
